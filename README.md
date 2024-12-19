@@ -26,7 +26,7 @@ Sithafal_Task_2
 |   ├── documents.txt            # Raw scraped website content
 |   ├── website_embeddings.index # FAISS index storing embeddings
 |   └── retrieved_docs.txt       # Contains top retrieved documents
-└──requirements.txt            # Required installations are mentioned in this
+└──requirements.txt              # Required installations are mentioned in this
 ```
 
 ## **How to Run the Project**
@@ -48,6 +48,7 @@ python generate_response.py
 
 ## **Output Demonstration**
 Enter the queries and get the answers
+
 Example Queries
 ```
 1. What is the university of Chicago known for?
@@ -58,14 +59,17 @@ Example Queries
 ## **Below are the Snapshots of the Output**
 
 1. **After Executing ```python scrape_and_embed.py``` file**
+
 ![Scraping the data from websites](https://github.com/user-attachments/assets/3dca3ad6-09db-4870-8548-055a387c1eac)
 
 
-2. **After running ```python query_retrive.py``` file**
+3. **After running ```python query_retrive.py``` file**
+
 ![User Entering queries and getting answers](https://github.com/user-attachments/assets/49527f14-e915-412b-8795-d1166f7d1059)
 
 
-3. **After executing ```python generate_response.py``` file**
+5. **After executing ```python generate_response.py``` file**
+   
 ![Generating response using LLMs](https://github.com/user-attachments/assets/e52f45ad-f9b1-41aa-8f4e-8e0a1bc12299)
 
 
