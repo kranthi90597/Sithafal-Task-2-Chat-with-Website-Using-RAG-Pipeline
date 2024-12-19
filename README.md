@@ -1,5 +1,8 @@
 # Chat-with-Website-Using-RAG-Pipeline
 
+## **For more details I suggest you to see below video**:
+  Youtube Video: https://youtu.be/3VPRGhjjEN8?si=aXa0hXTAUgJolBLt
+
 ## **Overview**
 This project implements a **Retrieval-Augmented Generation (RAG) Pipeline** to allow users to query website content efficiently. The system:
 1. **Crawls and scrapes data** from websites.
@@ -8,7 +11,7 @@ This project implements a **Retrieval-Augmented Generation (RAG) Pipeline** to a
 4. Handles user queries to **retrieve relevant data** and generate context-aware responses.
 
 
-## **Technologies Used**
+## **Technologies Used**:
 - **Python** 
 - **BeautifulSoup4** and **requests** for web scraping.
 - **SentenceTransformers** for embedding generation.
@@ -16,7 +19,7 @@ This project implements a **Retrieval-Augmented Generation (RAG) Pipeline** to a
 - **Large Language Model (Optional)** for response generation.
 
 
-## **Directory Structure**
+## **Directory Structure**:
 ```
 Sithafal_Task_2
 ├── Task_2/
@@ -29,7 +32,7 @@ Sithafal_Task_2
 └──requirements.txt              # Required installations are mentioned in this
 ```
 
-## **How to Run the Project**
+## **How to Run the Project**:
 1. Clone the repository:
 ```
 git clone https://github.com/kranthi90597/Sithafal-Task-2-Chat-with-Website-Using-RAG-Pipeline.git
@@ -46,7 +49,7 @@ python query_retrieve.py
 python generate_response.py
 ```
 
-## **Output Demonstration**
+## **Output Demonstration**:
 Enter the queries and get the answers
 
 Example Queries
@@ -56,7 +59,7 @@ Example Queries
 ```
 
 
-## **Below are the Snapshots of the Output**
+## **Below are the Snapshots of the Project's Output**:
 
 1. **After Executing ```python scrape_and_embed.py``` file**
 
