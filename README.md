@@ -71,7 +71,8 @@ Example Queries
 
 3. **After executing ```python generate_response.py``` file**
    
-    ![Generating response using LLMs](https://github.com/user-attachments/assets/e52f45ad-f9b1-41aa-8f4e-8e0a1bc12299)
+    ![Generating Response using LLMs](https://github.com/user-attachments/assets/1b2d2dc2-8812-4aa4-8283-46a3dc191c80)
+
 
 
 ## **Feel free to ask your valuable doubts**:
