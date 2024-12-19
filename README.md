@@ -60,12 +60,13 @@ Example Queries
 
 1. **After Executing ```python scrape_and_embed.py``` file**
 
-    ![Scraping the data from websites](https://github.com/user-attachments/assets/3dca3ad6-09db-4870-8548-055a387c1eac)
+    ![Scraping the information from Websites](https://github.com/user-attachments/assets/f16cf346-82aa-45a3-96d9-c283ee207166)
+
 
 
 2. **After running ```python query_retrive.py``` file**
 
-    ![User Entering queries and getting answers](https://github.com/user-attachments/assets/49527f14-e915-412b-8795-d1166f7d1059)
+    ![After Entering the query](https://github.com/user-attachments/assets/2ead4a61-b2e0-43c1-b591-6f4477384f3d)
 
 
 3. **After executing ```python generate_response.py``` file**
