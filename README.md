@@ -17,18 +17,16 @@ This project implements a **Retrieval-Augmented Generation (RAG) Pipeline** to a
 
 
 ## **Directory Structure**
-```plaintext
+```
 Sithafal_Task_2
-|
 ├── Task_2/
-| │
-| ├── scrape_and_embed.py      # Crawls websites, scrapes data, and generates embeddings
-| ├── query_retrieve.py        # Accepts user queries and retrieves relevant documents
-| ├── generate_response.py     # (Optional) Generates detailed responses using an LLM
-| ├── documents.txt            # Raw scraped website content
-| ├── website_embeddings.index # FAISS index storing embeddings
-| └── retrieved_docs.txt       # Contains top retrieved documents
-├──requirements.txt            # Required installations are mentioned in this
+|   ├── scrape_and_embed.py      # Crawls websites, scrapes data, and generates embeddings
+|   ├── query_retrieve.py        # Accepts user queries and retrieves relevant documents
+|   ├── generate_response.py     # (Optional) Generates detailed responses using an LLM
+|   ├── documents.txt            # Raw scraped website content
+|   ├── website_embeddings.index # FAISS index storing embeddings
+|   └── retrieved_docs.txt       # Contains top retrieved documents
+└──requirements.txt            # Required installations are mentioned in this
 ```
 
 ## **How to Run the Project**
@@ -51,8 +49,10 @@ python generate_response.py
 ## **Output Demonstration**
 Enter the queries and get the answers
 Example Queries
+```
 1. What is the university of Chicago known for?
 2. Tell me about Stanford University?
+```
 
 
 ## **Below are the Snapshots of the Output**
