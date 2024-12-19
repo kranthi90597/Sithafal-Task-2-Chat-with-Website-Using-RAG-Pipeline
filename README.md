@@ -7,7 +7,6 @@ This project implements a **Retrieval-Augmented Generation (RAG) Pipeline** to a
 3. Stores embeddings in a **FAISS vector database**.
 4. Handles user queries to **retrieve relevant data** and generate context-aware responses.
 
----
 
 ## **Technologies Used**
 - **Python** 
@@ -16,7 +15,6 @@ This project implements a **Retrieval-Augmented Generation (RAG) Pipeline** to a
 - **FAISS** (Facebook AI Similarity Search) for vector database.
 - **Large Language Model (Optional)** for response generation.
 
----
 
 ## **Directory Structure**
 ```plaintext
