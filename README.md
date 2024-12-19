@@ -36,7 +36,7 @@ Sithafal_Task_2
 1. Clone the repository:
 ```
 git clone https://github.com/kranthi90597/Sithafal-Task-2-Chat-with-Website-Using-RAG-Pipeline.git
-cd Sithafal-Task-2-Chat-with-Website-Using-RAG-Pipeline
+cd Sithafal-Task-2-Chat-with-Website-Using-RAG-Pipeline/Sithafal_Task_2
 ```
 2. Install required libraries using ```pip```:
 ```
