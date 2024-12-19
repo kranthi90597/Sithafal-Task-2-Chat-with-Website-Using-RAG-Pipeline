@@ -60,17 +60,17 @@ Example Queries
 
 1. **After Executing ```python scrape_and_embed.py``` file**
 
-![Scraping the data from websites](https://github.com/user-attachments/assets/3dca3ad6-09db-4870-8548-055a387c1eac)
+    ![Scraping the data from websites](https://github.com/user-attachments/assets/3dca3ad6-09db-4870-8548-055a387c1eac)
 
 
-3. **After running ```python query_retrive.py``` file**
+2. **After running ```python query_retrive.py``` file**
 
-![User Entering queries and getting answers](https://github.com/user-attachments/assets/49527f14-e915-412b-8795-d1166f7d1059)
+    ![User Entering queries and getting answers](https://github.com/user-attachments/assets/49527f14-e915-412b-8795-d1166f7d1059)
 
 
-5. **After executing ```python generate_response.py``` file**
+3. **After executing ```python generate_response.py``` file**
    
-![Generating response using LLMs](https://github.com/user-attachments/assets/e52f45ad-f9b1-41aa-8f4e-8e0a1bc12299)
+    ![Generating response using LLMs](https://github.com/user-attachments/assets/e52f45ad-f9b1-41aa-8f4e-8e0a1bc12299)
 
 
 ## **Feel free to ask your valuable doubts**:
